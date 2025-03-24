@@ -1,0 +1,6 @@
+Business.co Business Content License
+Copyright (c) 2015 Samson Analytics, Inc
+
+The Samson Analytics, Inc. owns this Business Content. However, the Samson Analytics supports the development and availability of business materials in the public domain. Therefore, the Samson Analytics grants Users of the Samson Analytics Content set forth in this repository certain rights to reuse, build upon and share such Business Content subject to the terms of the Business Content License set forth here (http://business.co/content-license). You must read carefully the terms and conditions contained in the Business Content License as such terms govern access to and use of the Business Content.
+
+Samson Analytics is willing to allow you access to and use of the Business Content only on the condition that you accept all of the terms and conditions contained in the Business Content License set forth here (http://Business.co/content-license). By accessing and/or using the Business Content, you are agreeing to all of the terms and conditions contained in the Business Content License. If you do not agree to any or all of the terms of the Business Content License, you are prohibited from accessing, reviewing or using in any way the Business Content.
