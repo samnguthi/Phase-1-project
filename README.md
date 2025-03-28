@@ -7,9 +7,11 @@ With the data provided, in its raw state it would not be helpful analytically. T
 Simply put, It undergoes a few process thanks to our data handling technologies and it can there after be interpreted into information that can be understood with great ease.
 This involves Loading of the data, getting and handling duplicates as well as missing data. Presenting the data visually 
 ## DATA VISUALIZATION
-We are in a century where there's literally a technology for everything. To visualise the data we have , we have powerful tools that ease the process of creation of data visuals images/example.png
-images/example1.png
-images/examples.png
+We are in a century where there's literally a technology for everything. To visualise the data we have , we have powerful tools that ease the process of creation of data visuals 
+![Example Image](example.png)
+![Example Image](example1.png)
+![Example Image](example2.png)
+![Example Image](example3.png)
 These are just but a few ways of visualising the data we have
 
 #RECOMMENDATIONS
